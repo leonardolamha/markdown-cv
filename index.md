@@ -13,7 +13,7 @@ Brazilian Portuguese Translator and Researcher
 
 ## Currently
 
-Standing on the shoulders of giants
+Aprendendo a usar isso
 
 ### Specialized in
 
