@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Leo CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Leonardo Petersen Lamha
+Brazilian Portuguese Translator and Researcher
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
